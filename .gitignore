@@ -1,4 +1,8 @@
 # npm에서 설치한 패키지를 무시합니다
 node_modules
 
+
+# vs code 와 관련된 파일들
+.vscode
+
 # 그 밖의 파일들
