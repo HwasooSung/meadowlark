@@ -6,3 +6,4 @@ node_modules
 .vscode
 
 # 그 밖의 파일들
+credentials.js

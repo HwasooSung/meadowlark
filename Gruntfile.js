@@ -15,8 +15,7 @@ module.exports = function (grunt) {
 			all: { src: 'qa/tests-*.js', options: { ui: 'tdd' }, }
 		},
 		jshint: {
-			app: ['meadowlark.js', 'public/js/**/*.js', 'lib/**/*.js'],
-			// qa: ['Gruntfile.js', 'public/qa/**/*.js', 'qa/**/*.js'],
+			app: ['meadowlark.js', 'public/js/**/*.js', 'lib/**/*.js']
 		},
 		// exec: {
 		// 	linkchecker: { cmd: 'linkchecker http://localhost:3000' }
